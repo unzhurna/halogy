@@ -7,7 +7,7 @@ Thank you for downloading Halogy. This guide provides the basic steps needed in 
 QUICK START GUIDE
 ------------------------------
 
-1. Download the latest repository from https://github.com/jesseorndorff/Halogy
+1. Download the latest repository from https://code.google.com/p/halogy/
 2. Extract the contents in to your Web Root folder (including the '/static' folder, 'index.php' and the '.htaccess' files).
 3. Run the provided SQL dump in your MySQL database.
 4. Configure your database settings in the '/halogy/config/database.php' file.
